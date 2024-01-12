@@ -8,7 +8,7 @@ I ❤️ love tackling big challenges using technology. <br><br> From Python bac
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=M4RINH0&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-M4RINH0.vercel.app/api/top-langs/?username=M4RINH0&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https:/github-readme-stats-eight-pied-95.vercel.app/api/top-langs/?username=M4RINH0&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
